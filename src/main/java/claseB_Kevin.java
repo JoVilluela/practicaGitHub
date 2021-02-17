@@ -9,10 +9,14 @@
  * @author Diurno
  */
 public class claseB_Kevin {
+<<<<<<< HEAD
     public NewsFeed()
     {
         messages = new ArrayList<MessagePost>();
         photos = new ArrayList<PhotoPost>();
     }
     
+=======
+    sadada
+>>>>>>> origin/master
 }

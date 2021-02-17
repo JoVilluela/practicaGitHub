@@ -9,5 +9,10 @@
  * @author Diurno
  */
 public class claseB_Kevin {
+    public NewsFeed()
+    {
+        messages = new ArrayList<MessagePost>();
+        photos = new ArrayList<PhotoPost>();
+    }
     
 }

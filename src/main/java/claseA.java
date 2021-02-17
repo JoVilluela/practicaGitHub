@@ -9,5 +9,7 @@
  * @author Diurno
  */
 public class claseA {
-    
+    public static void main (String [] Args){
+        System.out.println("Hola mundo");
+    }
 }
